@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+.nav {
+  width: 231px;
+  background-color: #040404;
+  height: 100%;
+  position: fixed;
+  display: block;
+}
